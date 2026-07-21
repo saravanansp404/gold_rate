@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "source": "Goodreturns",
   "unit": "INR per litre",
   "prices": {
@@ -8,7 +8,7 @@
       "mumbai": 111.21,
       "chennai": 107.76,
       "kolkata": 113.51,
-      "bangalore": 111.68,
+      "bangalore": 110.82,
       "hyderabad": 115.69
     },
     "diesel": {
@@ -16,7 +16,7 @@
       "mumbai": 97.83,
       "chennai": 99.55,
       "kolkata": 99.82,
-      "bangalore": 99.56,
+      "bangalore": 98.77,
       "hyderabad": 103.82
     }
   },
@@ -43,8 +43,8 @@
       {
         "city": "Chennai",
         "price": 107.76,
-        "yesterday": 107.77,
-        "change": -0.01
+        "yesterday": 107.76,
+        "change": 0.0
       },
       {
         "city": "Gurgaon",
@@ -55,20 +55,20 @@
       {
         "city": "Noida",
         "price": 101.96,
-        "yesterday": 102.12,
-        "change": -0.16
+        "yesterday": 101.96,
+        "change": 0.0
       },
       {
         "city": "Bangalore",
-        "price": 111.68,
+        "price": 110.82,
         "yesterday": 111.68,
-        "change": 0.0
+        "change": -0.86
       },
       {
         "city": "Bhubaneswar",
-        "price": 108.97,
+        "price": 110.49,
         "yesterday": 108.97,
-        "change": 0.0
+        "change": 1.52
       },
       {
         "city": "Chandigarh",
@@ -79,32 +79,32 @@
       {
         "city": "Hyderabad",
         "price": 115.69,
-        "yesterday": 115.73,
-        "change": -0.04
+        "yesterday": 115.69,
+        "change": 0.0
       },
       {
         "city": "Jaipur",
-        "price": 113.19,
-        "yesterday": 112.69,
-        "change": 0.5
+        "price": 112.66,
+        "yesterday": 113.19,
+        "change": -0.53
       },
       {
         "city": "Lucknow",
-        "price": 101.89,
-        "yesterday": 101.59,
-        "change": 0.3
+        "price": 101.86,
+        "yesterday": 101.89,
+        "change": -0.03
       },
       {
         "city": "Patna",
-        "price": 113.37,
-        "yesterday": 113.43,
-        "change": -0.06
+        "price": 113.53,
+        "yesterday": 113.37,
+        "change": 0.16
       },
       {
         "city": "Thiruvananthapuram",
         "price": 115.49,
-        "yesterday": 114.52,
-        "change": 0.97
+        "yesterday": 115.49,
+        "change": 0.0
       }
     ],
     "diesel": [
@@ -141,20 +141,20 @@
       {
         "city": "Noida",
         "price": 95.44,
-        "yesterday": 95.56,
-        "change": -0.12
+        "yesterday": 95.44,
+        "change": 0.0
       },
       {
         "city": "Bangalore",
-        "price": 99.56,
+        "price": 98.77,
         "yesterday": 99.56,
-        "change": 0.0
+        "change": -0.79
       },
       {
         "city": "Bhubaneswar",
-        "price": 100.68,
+        "price": 102.15,
         "yesterday": 100.68,
-        "change": 0.0
+        "change": 1.47
       },
       {
         "city": "Chandigarh",
@@ -170,27 +170,27 @@
       },
       {
         "city": "Jaipur",
-        "price": 98.25,
-        "yesterday": 97.78,
-        "change": 0.47
+        "price": 97.78,
+        "yesterday": 98.25,
+        "change": -0.47
       },
       {
         "city": "Lucknow",
         "price": 95.36,
-        "yesterday": 95.06,
-        "change": 0.3
+        "yesterday": 95.36,
+        "change": 0.0
       },
       {
         "city": "Patna",
-        "price": 99.36,
-        "yesterday": 99.44,
-        "change": -0.08
+        "price": 99.54,
+        "yesterday": 99.36,
+        "change": 0.18
       },
       {
         "city": "Thiruvananthapuram",
         "price": 104.4,
-        "yesterday": 103.38,
-        "change": 1.02
+        "yesterday": 104.4,
+        "change": 0.0
       }
     ]
   },
@@ -199,13 +199,7 @@
       {
         "state": "Andaman & Nicobar",
         "price": 88.66,
-        "yesterday": 110.45,
-        "change": -21.79
-      },
-      {
-        "state": "Andhra Pradesh",
-        "price": 117.51,
-        "yesterday": 117.51,
+        "yesterday": 88.66,
         "change": 0.0
       },
       {
@@ -222,9 +216,9 @@
       },
       {
         "state": "Bihar",
-        "price": 113.37,
-        "yesterday": 113.43,
-        "change": -0.06
+        "price": 113.53,
+        "yesterday": 113.37,
+        "change": 0.16
       },
       {
         "state": "Chandigarh",
@@ -234,15 +228,15 @@
       },
       {
         "state": "Chhatisgarh",
-        "price": 108.3,
-        "yesterday": 108.34,
-        "change": -0.04
+        "price": 108.74,
+        "yesterday": 108.3,
+        "change": 0.44
       },
       {
         "state": "Dadra and Nagar Haveli and Daman and Diu",
         "price": 99.44,
-        "yesterday": 102.23,
-        "change": -2.79
+        "yesterday": 99.44,
+        "change": 0.0
       },
       {
         "state": "Delhi",
@@ -253,56 +247,56 @@
       {
         "state": "Goa",
         "price": 104.0,
-        "yesterday": 112.08,
-        "change": -8.08
+        "yesterday": 104.0,
+        "change": 0.0
       },
       {
         "state": "Gujarat",
-        "price": 102.04,
-        "yesterday": 102.15,
-        "change": -0.11
+        "price": 102.01,
+        "yesterday": 102.04,
+        "change": -0.03
       },
       {
         "state": "Haryana",
-        "price": 102.97,
-        "yesterday": 103.28,
-        "change": -0.31
+        "price": 103.28,
+        "yesterday": 102.97,
+        "change": 0.31
       },
       {
         "state": "Himachal Pradesh",
-        "price": 102.38,
-        "yesterday": 102.54,
-        "change": -0.16
+        "price": 101.9,
+        "yesterday": 102.38,
+        "change": -0.48
       },
       {
         "state": "Jammu & Kashmir",
         "price": 104.13,
-        "yesterday": 105.86,
-        "change": -1.73
+        "yesterday": 104.13,
+        "change": 0.0
       },
       {
         "state": "Jharkhand",
-        "price": 105.17,
+        "price": 106.19,
         "yesterday": 105.17,
-        "change": 0.0
+        "change": 1.02
       },
       {
         "state": "Karnataka",
-        "price": 111.68,
+        "price": 110.82,
         "yesterday": 111.68,
-        "change": 0.0
+        "change": -0.86
       },
       {
         "state": "Kerala",
         "price": 115.49,
-        "yesterday": 114.52,
-        "change": 0.97
+        "yesterday": 115.49,
+        "change": 0.0
       },
       {
         "state": "Ladakh",
         "price": 109.01,
-        "yesterday": 108.78,
-        "change": 0.23
+        "yesterday": 109.01,
+        "change": 0.0
       },
       {
         "state": "Lakshadweep",
@@ -312,9 +306,9 @@
       },
       {
         "state": "Madhya Pradesh",
-        "price": 114.57,
-        "yesterday": 114.8,
-        "change": -0.23
+        "price": 114.54,
+        "yesterday": 114.57,
+        "change": -0.03
       },
       {
         "state": "Maharashtra",
@@ -325,8 +319,8 @@
       {
         "state": "Manipur",
         "price": 106.87,
-        "yesterday": 106.82,
-        "change": 0.05
+        "yesterday": 106.87,
+        "change": 0.0
       },
       {
         "state": "Meghalaya",
@@ -336,27 +330,27 @@
       },
       {
         "state": "Mizoram",
-        "price": 106.55,
-        "yesterday": 106.69,
-        "change": -0.14
+        "price": 106.79,
+        "yesterday": 106.55,
+        "change": 0.24
       },
       {
         "state": "Nagaland",
         "price": 104.87,
-        "yesterday": 104.43,
-        "change": 0.44
-      },
-      {
-        "state": "Odisha",
-        "price": 108.97,
-        "yesterday": 108.97,
+        "yesterday": 104.87,
         "change": 0.0
       },
       {
+        "state": "Odisha",
+        "price": 110.49,
+        "yesterday": 108.97,
+        "change": 1.52
+      },
+      {
         "state": "Pondicherry",
-        "price": 103.58,
-        "yesterday": 103.61,
-        "change": -0.03
+        "price": 103.32,
+        "yesterday": 103.58,
+        "change": -0.26
       },
       {
         "state": "Punjab",
@@ -366,9 +360,9 @@
       },
       {
         "state": "Rajasthan",
-        "price": 113.19,
-        "yesterday": 112.69,
-        "change": 0.5
+        "price": 112.66,
+        "yesterday": 113.19,
+        "change": -0.53
       },
       {
         "state": "Sikkim",
@@ -379,14 +373,14 @@
       {
         "state": "Tamil Nadu",
         "price": 107.76,
-        "yesterday": 107.77,
-        "change": -0.01
+        "yesterday": 107.76,
+        "change": 0.0
       },
       {
         "state": "Telangana",
         "price": 115.69,
-        "yesterday": 115.73,
-        "change": -0.04
+        "yesterday": 115.69,
+        "change": 0.0
       },
       {
         "state": "Tripura",
@@ -396,15 +390,15 @@
       },
       {
         "state": "Uttar Pradesh",
-        "price": 101.89,
-        "yesterday": 101.59,
-        "change": 0.3
+        "price": 101.86,
+        "yesterday": 101.89,
+        "change": -0.03
       },
       {
         "state": "Uttarakhand",
-        "price": 99.54,
+        "price": 100.55,
         "yesterday": 99.54,
-        "change": 0.0
+        "change": 1.01
       },
       {
         "state": "West Bengal",
@@ -417,13 +411,7 @@
       {
         "state": "Andaman & Nicobar",
         "price": 84.56,
-        "yesterday": 102.1,
-        "change": -17.54
-      },
-      {
-        "state": "Andhra Pradesh",
-        "price": 105.2,
-        "yesterday": 105.2,
+        "yesterday": 84.56,
         "change": 0.0
       },
       {
@@ -440,9 +428,9 @@
       },
       {
         "state": "Bihar",
-        "price": 99.36,
-        "yesterday": 99.44,
-        "change": -0.08
+        "price": 99.54,
+        "yesterday": 99.36,
+        "change": 0.18
       },
       {
         "state": "Chandigarh",
@@ -452,15 +440,15 @@
       },
       {
         "state": "Chhatisgarh",
-        "price": 101.55,
-        "yesterday": 101.6,
-        "change": -0.05
+        "price": 101.99,
+        "yesterday": 101.55,
+        "change": 0.44
       },
       {
         "state": "Dadra and Nagar Haveli and Daman and Diu",
         "price": 95.33,
-        "yesterday": 98.35,
-        "change": -3.02
+        "yesterday": 95.33,
+        "change": 0.0
       },
       {
         "state": "Delhi",
@@ -471,56 +459,56 @@
       {
         "state": "Goa",
         "price": 95.88,
-        "yesterday": 100.04,
-        "change": -4.16
+        "yesterday": 95.88,
+        "change": 0.0
       },
       {
         "state": "Gujarat",
-        "price": 98.15,
-        "yesterday": 98.27,
-        "change": -0.12
+        "price": 98.13,
+        "yesterday": 98.15,
+        "change": -0.02
       },
       {
         "state": "Haryana",
-        "price": 95.64,
-        "yesterday": 95.94,
-        "change": -0.3
+        "price": 95.94,
+        "yesterday": 95.64,
+        "change": 0.3
       },
       {
         "state": "Himachal Pradesh",
-        "price": 94.57,
-        "yesterday": 94.52,
-        "change": 0.05
+        "price": 93.83,
+        "yesterday": 94.57,
+        "change": -0.74
       },
       {
         "state": "Jammu & Kashmir",
         "price": 92.81,
-        "yesterday": 94.26,
-        "change": -1.45
+        "yesterday": 92.81,
+        "change": 0.0
       },
       {
         "state": "Jharkhand",
-        "price": 100.41,
+        "price": 101.31,
         "yesterday": 100.41,
-        "change": 0.0
+        "change": 0.9
       },
       {
         "state": "Karnataka",
-        "price": 99.56,
+        "price": 98.77,
         "yesterday": 99.56,
-        "change": 0.0
+        "change": -0.79
       },
       {
         "state": "Kerala",
         "price": 104.4,
-        "yesterday": 103.38,
-        "change": 1.02
+        "yesterday": 104.4,
+        "change": 0.0
       },
       {
         "state": "Ladakh",
         "price": 94.13,
-        "yesterday": 93.91,
-        "change": 0.22
+        "yesterday": 94.13,
+        "change": 0.0
       },
       {
         "state": "Lakshadweep",
@@ -531,8 +519,8 @@
       {
         "state": "Madhya Pradesh",
         "price": 99.64,
-        "yesterday": 99.89,
-        "change": -0.25
+        "yesterday": 99.64,
+        "change": 0.0
       },
       {
         "state": "Maharashtra",
@@ -543,8 +531,8 @@
       {
         "state": "Manipur",
         "price": 92.57,
-        "yesterday": 92.53,
-        "change": 0.04
+        "yesterday": 92.57,
+        "change": 0.0
       },
       {
         "state": "Meghalaya",
@@ -554,27 +542,27 @@
       },
       {
         "state": "Mizoram",
-        "price": 95.17,
-        "yesterday": 95.53,
-        "change": -0.36
+        "price": 95.67,
+        "yesterday": 95.17,
+        "change": 0.5
       },
       {
         "state": "Nagaland",
         "price": 96.16,
-        "yesterday": 95.94,
-        "change": 0.22
+        "yesterday": 96.16,
+        "change": 0.0
       },
       {
         "state": "Odisha",
-        "price": 100.68,
+        "price": 102.15,
         "yesterday": 100.68,
-        "change": 0.0
+        "change": 1.47
       },
       {
         "state": "Pondicherry",
-        "price": 93.79,
+        "price": 93.59,
         "yesterday": 93.79,
-        "change": 0.0
+        "change": -0.2
       },
       {
         "state": "Punjab",
@@ -584,9 +572,9 @@
       },
       {
         "state": "Rajasthan",
-        "price": 98.25,
-        "yesterday": 97.78,
-        "change": 0.47
+        "price": 97.78,
+        "yesterday": 98.25,
+        "change": -0.47
       },
       {
         "state": "Sikkim",
@@ -615,14 +603,14 @@
       {
         "state": "Uttar Pradesh",
         "price": 95.36,
-        "yesterday": 95.06,
-        "change": 0.3
+        "yesterday": 95.36,
+        "change": 0.0
       },
       {
         "state": "Uttarakhand",
-        "price": 95.05,
+        "price": 95.93,
         "yesterday": 95.05,
-        "change": 0.0
+        "change": 0.88
       },
       {
         "state": "West Bengal",
@@ -665,6 +653,17 @@
       "diesel_chennai": 99.55,
       "petrol_bangalore": 111.68,
       "diesel_bangalore": 99.56
+    },
+    {
+      "date": "2026-07-21",
+      "petrol_delhi": 102.12,
+      "diesel_delhi": 95.2,
+      "petrol_mumbai": 111.21,
+      "diesel_mumbai": 97.83,
+      "petrol_chennai": 107.76,
+      "diesel_chennai": 99.55,
+      "petrol_bangalore": 110.82,
+      "diesel_bangalore": 98.77
     }
   ],
   "source_url": {
