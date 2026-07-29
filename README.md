@@ -11,7 +11,7 @@ Every day, a GitHub Action runs the scrapers, updates the JSON files, and commit
 - Scrapes **petrol** and **diesel** prices for metro cities + all states (INR per litre)
 - Stores latest prices + historical daily entries in JSON
 - Avoids duplicate history for the same date
-- Runs automatically every day at **10:02 AM IST** via GitHub Actions
+- Runs automatically every day at **9:00 AM IST** via GitHub Actions
 - Exposes free public JSON APIs via GitHub raw content
 
 ## Project structure
@@ -232,7 +232,7 @@ Workflow file: [`.github/workflows/update-gold.yml`](./.github/workflows/update-
 
 | Trigger | When |
 | --- | --- |
-| `schedule` | Every day at **10:02 AM IST** (`cron: 32 4 * * *` UTC) |
+| `schedule` | Every day at **9:00 AM IST** (`cron: 30 3 * * *` UTC) |
 | `workflow_dispatch` | Manual run from the Actions tab |
 
 What the workflow does:

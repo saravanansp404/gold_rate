@@ -2,9 +2,9 @@ name: Update Prices
 
 on:
   schedule:
-    # India time (IST / Asia/Kolkata): every day 10:02 AM
-    # GitHub Actions cron uses UTC only → 10:02 IST = 04:32 UTC
-    - cron: "32 4 * * *"
+    # India time (IST / Asia/Kolkata): every day 9:00 AM
+    # GitHub Actions cron uses UTC only → 9:00 IST = 03:30 UTC
+    - cron: "30 3 * * *"
   workflow_dispatch:
 
 permissions:
