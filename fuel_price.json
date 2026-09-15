@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-15",
   "source": "Goodreturns",
   "unit": "INR per litre",
   "prices": {
@@ -43,8 +43,8 @@
       {
         "city": "Chennai",
         "price": 107.76,
-        "yesterday": 107.77,
-        "change": -0.01
+        "yesterday": 107.76,
+        "change": 0.0
       },
       {
         "city": "Gurgaon",
@@ -84,15 +84,15 @@
       },
       {
         "city": "Jaipur",
-        "price": 112.66,
-        "yesterday": 113.19,
-        "change": -0.53
+        "price": 113.19,
+        "yesterday": 112.66,
+        "change": 0.53
       },
       {
         "city": "Lucknow",
-        "price": 101.89,
-        "yesterday": 101.86,
-        "change": 0.03
+        "price": 101.86,
+        "yesterday": 101.89,
+        "change": -0.03
       },
       {
         "city": "Patna",
@@ -170,9 +170,9 @@
       },
       {
         "city": "Jaipur",
-        "price": 97.78,
-        "yesterday": 98.25,
-        "change": -0.47
+        "price": 98.25,
+        "yesterday": 97.78,
+        "change": 0.47
       },
       {
         "city": "Lucknow",
@@ -246,9 +246,9 @@
       },
       {
         "state": "Goa",
-        "price": 103.92,
-        "yesterday": 104.0,
-        "change": -0.08
+        "price": 104.0,
+        "yesterday": 103.92,
+        "change": 0.08
       },
       {
         "state": "Gujarat",
@@ -306,9 +306,9 @@
       },
       {
         "state": "Madhya Pradesh",
-        "price": 114.45,
+        "price": 114.54,
         "yesterday": 114.45,
-        "change": 0.0
+        "change": 0.09
       },
       {
         "state": "Maharashtra",
@@ -360,9 +360,9 @@
       },
       {
         "state": "Rajasthan",
-        "price": 112.66,
-        "yesterday": 113.19,
-        "change": -0.53
+        "price": 113.19,
+        "yesterday": 112.66,
+        "change": 0.53
       },
       {
         "state": "Sikkim",
@@ -373,8 +373,8 @@
       {
         "state": "Tamil Nadu",
         "price": 107.76,
-        "yesterday": 107.77,
-        "change": -0.01
+        "yesterday": 107.76,
+        "change": 0.0
       },
       {
         "state": "Telangana",
@@ -390,9 +390,9 @@
       },
       {
         "state": "Uttar Pradesh",
-        "price": 101.89,
-        "yesterday": 101.86,
-        "change": 0.03
+        "price": 101.86,
+        "yesterday": 101.89,
+        "change": -0.03
       },
       {
         "state": "Uttarakhand",
@@ -458,9 +458,9 @@
       },
       {
         "state": "Goa",
-        "price": 95.81,
-        "yesterday": 95.88,
-        "change": -0.07
+        "price": 95.88,
+        "yesterday": 95.81,
+        "change": 0.07
       },
       {
         "state": "Gujarat",
@@ -518,9 +518,9 @@
       },
       {
         "state": "Madhya Pradesh",
-        "price": 99.55,
+        "price": 99.64,
         "yesterday": 99.55,
-        "change": 0.0
+        "change": 0.09
       },
       {
         "state": "Maharashtra",
@@ -572,9 +572,9 @@
       },
       {
         "state": "Rajasthan",
-        "price": 97.78,
-        "yesterday": 98.25,
-        "change": -0.47
+        "price": 98.25,
+        "yesterday": 97.78,
+        "change": 0.47
       },
       {
         "state": "Sikkim",
@@ -1261,6 +1261,17 @@
     },
     {
       "date": "2026-09-14",
+      "petrol_delhi": 102.12,
+      "diesel_delhi": 95.2,
+      "petrol_mumbai": 111.21,
+      "diesel_mumbai": 97.83,
+      "petrol_chennai": 107.76,
+      "diesel_chennai": 99.55,
+      "petrol_bangalore": 111.68,
+      "diesel_bangalore": 99.56
+    },
+    {
+      "date": "2026-09-15",
       "petrol_delhi": 102.12,
       "diesel_delhi": 95.2,
       "petrol_mumbai": 111.21,
