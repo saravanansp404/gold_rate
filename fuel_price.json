@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27",
+  "last_updated": "2026-09-28",
   "source": "Goodreturns",
   "unit": "INR per litre",
   "prices": {
@@ -72,9 +72,9 @@
       },
       {
         "city": "Chandigarh",
-        "price": 101.54,
+        "price": 101.51,
         "yesterday": 101.54,
-        "change": 0.0
+        "change": -0.03
       },
       {
         "city": "Hyderabad",
@@ -204,15 +204,15 @@
       },
       {
         "state": "Arunachal Pradesh",
-        "price": 97.95,
+        "price": 97.7,
         "yesterday": 97.95,
-        "change": 0.0
+        "change": -0.25
       },
       {
         "state": "Assam",
-        "price": 105.73,
-        "yesterday": 106.16,
-        "change": -0.43
+        "price": 106.16,
+        "yesterday": 105.73,
+        "change": 0.43
       },
       {
         "state": "Bihar",
@@ -222,9 +222,9 @@
       },
       {
         "state": "Chandigarh",
-        "price": 101.54,
+        "price": 101.51,
         "yesterday": 101.54,
-        "change": 0.0
+        "change": -0.03
       },
       {
         "state": "Chhatisgarh",
@@ -306,9 +306,9 @@
       },
       {
         "state": "Madhya Pradesh",
-        "price": 114.54,
+        "price": 114.45,
         "yesterday": 114.54,
-        "change": 0.0
+        "change": -0.09
       },
       {
         "state": "Maharashtra",
@@ -416,15 +416,15 @@
       },
       {
         "state": "Arunachal Pradesh",
-        "price": 87.31,
+        "price": 87.11,
         "yesterday": 87.31,
-        "change": 0.0
+        "change": -0.2
       },
       {
         "state": "Assam",
-        "price": 97.23,
-        "yesterday": 97.64,
-        "change": -0.41
+        "price": 97.64,
+        "yesterday": 97.23,
+        "change": 0.41
       },
       {
         "state": "Bihar",
@@ -518,9 +518,9 @@
       },
       {
         "state": "Madhya Pradesh",
-        "price": 99.64,
+        "price": 99.55,
         "yesterday": 99.64,
-        "change": 0.0
+        "change": -0.09
       },
       {
         "state": "Maharashtra",
@@ -1404,6 +1404,17 @@
     },
     {
       "date": "2026-09-27",
+      "petrol_delhi": 102.12,
+      "diesel_delhi": 95.2,
+      "petrol_mumbai": 111.21,
+      "diesel_mumbai": 97.83,
+      "petrol_chennai": 107.76,
+      "diesel_chennai": 99.55,
+      "petrol_bangalore": 111.68,
+      "diesel_bangalore": 99.56
+    },
+    {
+      "date": "2026-09-28",
       "petrol_delhi": 102.12,
       "diesel_delhi": 95.2,
       "petrol_mumbai": 111.21,
