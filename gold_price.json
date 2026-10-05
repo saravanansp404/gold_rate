@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04",
+  "last_updated": "2026-10-05",
   "source": "Goodreturns",
   "source_url": "https://www.goodreturns.in/gold-rates/",
   "unit": "INR",
@@ -483,6 +483,12 @@
       "22k_gold": 13675,
       "24k_gold": 14918,
       "silver": 235
+    },
+    {
+      "date": "2026-10-05",
+      "22k_gold": 13675,
+      "24k_gold": 14918,
+      "silver": 235
     }
   ],
   "price_change": {
@@ -596,6 +602,14 @@
   "last_10_days": {
     "gold": [
       {
+        "date": "2026-10-05",
+        "date_label": "Oct 05, 2026",
+        "24k_gold": 14918,
+        "22k_gold": 13675,
+        "change_24k": 0,
+        "change_22k": 0
+      },
+      {
         "date": "2026-10-04",
         "date_label": "Oct 04, 2026",
         "24k_gold": 14918,
@@ -666,17 +680,18 @@
         "22k_gold": 13995,
         "change_24k": -16,
         "change_22k": -15
-      },
-      {
-        "date": "2026-09-25",
-        "date_label": "Sep 25, 2026",
-        "24k_gold": 15284,
-        "22k_gold": 14010,
-        "change_24k": 16,
-        "change_22k": 15
       }
     ],
     "silver": [
+      {
+        "date": "2026-10-05",
+        "date_label": "Oct 05, 2026",
+        "silver_1g": 235,
+        "silver_10g": 2350,
+        "silver_100g": 23500,
+        "silver_1kg": 235000,
+        "change_1kg": 0
+      },
       {
         "date": "2026-10-04",
         "date_label": "Oct 04, 2026",
@@ -752,15 +767,6 @@
       {
         "date": "2026-09-26",
         "date_label": "Sep 26, 2026",
-        "silver_1g": 245,
-        "silver_10g": 2450,
-        "silver_100g": 24500,
-        "silver_1kg": 245000,
-        "change_1kg": 0
-      },
-      {
-        "date": "2026-09-25",
-        "date_label": "Sep 25, 2026",
         "silver_1g": 245,
         "silver_10g": 2450,
         "silver_100g": 24500,
