@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17",
+  "last_updated": "2026-10-18",
   "source": "Goodreturns",
   "unit": "INR per litre",
   "prices": {
@@ -210,9 +210,9 @@
       },
       {
         "state": "Assam",
-        "price": 106.65,
-        "yesterday": 105.73,
-        "change": 0.92
+        "price": 105.73,
+        "yesterday": 106.65,
+        "change": -0.92
       },
       {
         "state": "Bihar",
@@ -247,14 +247,14 @@
       {
         "state": "Goa",
         "price": 104.0,
-        "yesterday": 103.92,
-        "change": 0.08
+        "yesterday": 104.0,
+        "change": 0.0
       },
       {
         "state": "Gujarat",
-        "price": 102.01,
+        "price": 102.04,
         "yesterday": 102.01,
-        "change": 0.0
+        "change": 0.03
       },
       {
         "state": "Haryana",
@@ -422,9 +422,9 @@
       },
       {
         "state": "Assam",
-        "price": 98.07,
-        "yesterday": 97.23,
-        "change": 0.84
+        "price": 97.23,
+        "yesterday": 98.07,
+        "change": -0.84
       },
       {
         "state": "Bihar",
@@ -459,14 +459,14 @@
       {
         "state": "Goa",
         "price": 95.88,
-        "yesterday": 95.81,
-        "change": 0.07
+        "yesterday": 95.88,
+        "change": 0.0
       },
       {
         "state": "Gujarat",
-        "price": 98.13,
+        "price": 98.15,
         "yesterday": 98.13,
-        "change": 0.0
+        "change": 0.02
       },
       {
         "state": "Haryana",
@@ -1624,6 +1624,17 @@
     },
     {
       "date": "2026-10-17",
+      "petrol_delhi": 102.12,
+      "diesel_delhi": 95.2,
+      "petrol_mumbai": 111.21,
+      "diesel_mumbai": 97.83,
+      "petrol_chennai": 107.76,
+      "diesel_chennai": 99.55,
+      "petrol_bangalore": 111.68,
+      "diesel_bangalore": 99.56
+    },
+    {
+      "date": "2026-10-18",
       "petrol_delhi": 102.12,
       "diesel_delhi": 95.2,
       "petrol_mumbai": 111.21,
