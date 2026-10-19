@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-18",
+  "last_updated": "2026-10-19",
   "source": "Goodreturns",
   "source_url": "https://www.goodreturns.in/gold-rates/",
   "unit": "INR",
   "prices": {
-    "22k_gold": 13535,
-    "24k_gold": 14766,
+    "22k_gold": 13570,
+    "24k_gold": 14804,
     "silver": 230,
     "unit": "INR per gram"
   },
@@ -567,6 +567,12 @@
       "22k_gold": 13535,
       "24k_gold": 14766,
       "silver": 230
+    },
+    {
+      "date": "2026-10-19",
+      "22k_gold": 13570,
+      "24k_gold": 14804,
+      "silver": 230
     }
   ],
   "price_change": {
@@ -574,73 +580,73 @@
       {
         "weight_gram": 1,
         "today": {
-          "24k_gold": 14766,
-          "22k_gold": 13535,
-          "18k_gold": 11074
+          "24k_gold": 14804,
+          "22k_gold": 13570,
+          "18k_gold": 11103
         },
         "yesterday": {
           "24k_gold": 14766,
           "22k_gold": 13535,
-          "18k_gold": 0
+          "18k_gold": 11074
         },
         "change": {
-          "24k_gold": 14766,
-          "22k_gold": 13535,
-          "18k_gold": 11074
+          "24k_gold": 38,
+          "22k_gold": 35,
+          "18k_gold": 29
         }
       },
       {
         "weight_gram": 8,
         "today": {
-          "24k_gold": 118128,
-          "22k_gold": 108280,
-          "18k_gold": 88592
+          "24k_gold": 118432,
+          "22k_gold": 108560,
+          "18k_gold": 88824
         },
         "yesterday": {
           "24k_gold": 118128,
           "22k_gold": 108280,
-          "18k_gold": 0
+          "18k_gold": 88592
         },
         "change": {
-          "24k_gold": 118128,
-          "22k_gold": 108280,
-          "18k_gold": 88592
+          "24k_gold": 304,
+          "22k_gold": 280,
+          "18k_gold": 232
         }
       },
       {
         "weight_gram": 10,
         "today": {
-          "24k_gold": 147660,
-          "22k_gold": 135350,
-          "18k_gold": 110740
+          "24k_gold": 148040,
+          "22k_gold": 135700,
+          "18k_gold": 111030
         },
         "yesterday": {
           "24k_gold": 147660,
           "22k_gold": 135350,
-          "18k_gold": 0
+          "18k_gold": 110740
         },
         "change": {
-          "24k_gold": 147660,
-          "22k_gold": 135350,
-          "18k_gold": 110740
+          "24k_gold": 380,
+          "22k_gold": 350,
+          "18k_gold": 290
         }
       },
       {
         "weight_gram": 100,
         "today": {
-          "24k_gold": 1476600,
-          "22k_gold": 1353500,
-          "18k_gold": 1107400
+          "24k_gold": 1480400,
+          "22k_gold": 1357000,
+          "18k_gold": 1110300
         },
         "yesterday": {
           "24k_gold": 1476600,
           "22k_gold": 1353500,
-          "18k_gold": 0
+          "18k_gold": 1107400
         },
         "change": {
-          "24k_gold": 1476600,
-          "22k_gold": 1353500,
-          "18k_gold": 1107400
+          "24k_gold": 3800,
+          "22k_gold": 3500,
+          "18k_gold": 2900
         }
       }
     ],
@@ -679,6 +685,14 @@
   },
   "last_10_days": {
     "gold": [
+      {
+        "date": "2026-10-19",
+        "date_label": "Oct 19, 2026",
+        "24k_gold": 14804,
+        "22k_gold": 13570,
+        "change_24k": 38,
+        "change_22k": 35
+      },
       {
         "date": "2026-10-18",
         "date_label": "Oct 18, 2026",
@@ -750,17 +764,18 @@
         "22k_gold": 13880,
         "change_24k": 71,
         "change_22k": 65
-      },
-      {
-        "date": "2026-10-09",
-        "date_label": "Oct 09, 2026",
-        "24k_gold": 15071,
-        "22k_gold": 13815,
-        "change_24k": 114,
-        "change_22k": 105
       }
     ],
     "silver": [
+      {
+        "date": "2026-10-19",
+        "date_label": "Oct 19, 2026",
+        "silver_1g": 230,
+        "silver_10g": 2300,
+        "silver_100g": 23000,
+        "silver_1kg": 230000,
+        "change_1kg": 0
+      },
       {
         "date": "2026-10-18",
         "date_label": "Oct 18, 2026",
@@ -841,15 +856,6 @@
         "silver_100g": 24000,
         "silver_1kg": 240000,
         "change_1kg": 5000
-      },
-      {
-        "date": "2026-10-09",
-        "date_label": "Oct 09, 2026",
-        "silver_1g": 235,
-        "silver_10g": 2350,
-        "silver_100g": 23500,
-        "silver_1kg": 235000,
-        "change_1kg": 0
       }
     ]
   }
