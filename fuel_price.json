@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25",
+  "last_updated": "2026-10-26",
   "source": "Goodreturns",
   "unit": "INR per litre",
   "prices": {
@@ -73,8 +73,8 @@
       {
         "city": "Chandigarh",
         "price": 101.54,
-        "yesterday": 101.51,
-        "change": 0.03
+        "yesterday": 101.54,
+        "change": 0.0
       },
       {
         "city": "Hyderabad",
@@ -223,8 +223,8 @@
       {
         "state": "Chandigarh",
         "price": 101.54,
-        "yesterday": 101.51,
-        "change": 0.03
+        "yesterday": 101.54,
+        "change": 0.0
       },
       {
         "state": "Chhatisgarh",
@@ -1712,6 +1712,17 @@
     },
     {
       "date": "2026-10-25",
+      "petrol_delhi": 102.12,
+      "diesel_delhi": 95.2,
+      "petrol_mumbai": 111.21,
+      "diesel_mumbai": 97.83,
+      "petrol_chennai": 107.76,
+      "diesel_chennai": 99.55,
+      "petrol_bangalore": 111.68,
+      "diesel_bangalore": 99.56
+    },
+    {
+      "date": "2026-10-26",
       "petrol_delhi": 102.12,
       "diesel_delhi": 95.2,
       "petrol_mumbai": 111.21,
