@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29",
+  "last_updated": "2026-10-30",
   "source": "Goodreturns",
   "unit": "INR per litre",
   "prices": {
@@ -228,9 +228,9 @@
       },
       {
         "state": "Chhatisgarh",
-        "price": 108.3,
+        "price": 108.06,
         "yesterday": 108.3,
-        "change": 0.0
+        "change": -0.24
       },
       {
         "state": "Dadra and Nagar Haveli and Daman and Diu",
@@ -440,9 +440,9 @@
       },
       {
         "state": "Chhatisgarh",
-        "price": 101.55,
+        "price": 101.32,
         "yesterday": 101.55,
-        "change": 0.0
+        "change": -0.23
       },
       {
         "state": "Dadra and Nagar Haveli and Daman and Diu",
@@ -1756,6 +1756,17 @@
     },
     {
       "date": "2026-10-29",
+      "petrol_delhi": 102.12,
+      "diesel_delhi": 95.2,
+      "petrol_mumbai": 111.21,
+      "diesel_mumbai": 97.83,
+      "petrol_chennai": 107.76,
+      "diesel_chennai": 99.55,
+      "petrol_bangalore": 111.68,
+      "diesel_bangalore": 99.56
+    },
+    {
+      "date": "2026-10-30",
       "petrol_delhi": 102.12,
       "diesel_delhi": 95.2,
       "petrol_mumbai": 111.21,
