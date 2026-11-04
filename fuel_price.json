@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03",
+  "last_updated": "2026-11-04",
   "source": "Goodreturns",
   "unit": "INR per litre",
   "prices": {
@@ -252,9 +252,9 @@
       },
       {
         "state": "Gujarat",
-        "price": 102.04,
+        "price": 102.01,
         "yesterday": 102.04,
-        "change": 0.0
+        "change": -0.03
       },
       {
         "state": "Haryana",
@@ -318,9 +318,9 @@
       },
       {
         "state": "Manipur",
-        "price": 106.9,
+        "price": 107.32,
         "yesterday": 106.9,
-        "change": 0.0
+        "change": 0.42
       },
       {
         "state": "Meghalaya",
@@ -464,9 +464,9 @@
       },
       {
         "state": "Gujarat",
-        "price": 98.15,
+        "price": 98.13,
         "yesterday": 98.15,
-        "change": 0.0
+        "change": -0.02
       },
       {
         "state": "Haryana",
@@ -530,9 +530,9 @@
       },
       {
         "state": "Manipur",
-        "price": 92.59,
+        "price": 92.97,
         "yesterday": 92.59,
-        "change": 0.0
+        "change": 0.38
       },
       {
         "state": "Meghalaya",
@@ -1811,6 +1811,17 @@
     },
     {
       "date": "2026-11-03",
+      "petrol_delhi": 102.12,
+      "diesel_delhi": 95.2,
+      "petrol_mumbai": 111.21,
+      "diesel_mumbai": 97.83,
+      "petrol_chennai": 107.76,
+      "diesel_chennai": 99.55,
+      "petrol_bangalore": 111.68,
+      "diesel_bangalore": 99.56
+    },
+    {
+      "date": "2026-11-04",
       "petrol_delhi": 102.12,
       "diesel_delhi": 95.2,
       "petrol_mumbai": 111.21,
