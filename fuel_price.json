@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08",
+  "last_updated": "2026-11-09",
   "source": "Goodreturns",
   "unit": "INR per litre",
   "prices": {
@@ -49,8 +49,8 @@
       {
         "city": "Gurgaon",
         "price": 102.97,
-        "yesterday": 102.77,
-        "change": 0.2
+        "yesterday": 102.97,
+        "change": 0.0
       },
       {
         "city": "Noida",
@@ -135,8 +135,8 @@
       {
         "city": "Gurgaon",
         "price": 95.64,
-        "yesterday": 95.44,
-        "change": 0.2
+        "yesterday": 95.64,
+        "change": 0.0
       },
       {
         "city": "Noida",
@@ -1866,6 +1866,17 @@
     },
     {
       "date": "2026-11-08",
+      "petrol_delhi": 102.12,
+      "diesel_delhi": 95.2,
+      "petrol_mumbai": 111.21,
+      "diesel_mumbai": 97.83,
+      "petrol_chennai": 107.76,
+      "diesel_chennai": 99.55,
+      "petrol_bangalore": 111.68,
+      "diesel_bangalore": 99.56
+    },
+    {
+      "date": "2026-11-09",
       "petrol_delhi": 102.12,
       "diesel_delhi": 95.2,
       "petrol_mumbai": 111.21,
