@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15",
+  "last_updated": "2026-11-16",
   "source": "Goodreturns",
   "unit": "INR per litre",
   "prices": {
@@ -97,8 +97,8 @@
       {
         "city": "Patna",
         "price": 113.37,
-        "yesterday": 113.35,
-        "change": 0.02
+        "yesterday": 113.37,
+        "change": 0.0
       },
       {
         "city": "Thiruvananthapuram",
@@ -217,8 +217,8 @@
       {
         "state": "Bihar",
         "price": 113.37,
-        "yesterday": 113.35,
-        "change": 0.02
+        "yesterday": 113.37,
+        "change": 0.0
       },
       {
         "state": "Chandigarh",
@@ -1943,6 +1943,17 @@
     },
     {
       "date": "2026-11-15",
+      "petrol_delhi": 102.12,
+      "diesel_delhi": 95.2,
+      "petrol_mumbai": 111.21,
+      "diesel_mumbai": 97.83,
+      "petrol_chennai": 107.76,
+      "diesel_chennai": 99.55,
+      "petrol_bangalore": 111.68,
+      "diesel_bangalore": 99.56
+    },
+    {
+      "date": "2026-11-16",
       "petrol_delhi": 102.12,
       "diesel_delhi": 95.2,
       "petrol_mumbai": 111.21,
