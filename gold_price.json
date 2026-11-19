@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-19",
   "source": "Goodreturns",
   "source_url": "https://www.goodreturns.in/gold-rates/",
   "unit": "INR",
   "prices": {
-    "22k_gold": 12215,
-    "24k_gold": 13326,
-    "silver": 185,
+    "22k_gold": 11980,
+    "24k_gold": 13069,
+    "silver": 180,
     "unit": "INR per gram"
   },
   "history": [
@@ -753,6 +753,12 @@
       "22k_gold": 12215,
       "24k_gold": 13326,
       "silver": 185
+    },
+    {
+      "date": "2026-11-19",
+      "22k_gold": 11980,
+      "24k_gold": 13069,
+      "silver": 180
     }
   ],
   "price_change": {
@@ -760,111 +766,119 @@
       {
         "weight_gram": 1,
         "today": {
+          "24k_gold": 13069,
+          "22k_gold": 11980,
+          "18k_gold": 9802
+        },
+        "yesterday": {
           "24k_gold": 13326,
           "22k_gold": 12215,
           "18k_gold": 9994
         },
-        "yesterday": {
-          "24k_gold": 13604,
-          "22k_gold": 12470,
-          "18k_gold": 10203
-        },
         "change": {
-          "24k_gold": -278,
-          "22k_gold": -255,
-          "18k_gold": -209
+          "24k_gold": -257,
+          "22k_gold": -235,
+          "18k_gold": -192
         }
       },
       {
         "weight_gram": 8,
         "today": {
+          "24k_gold": 104552,
+          "22k_gold": 95840,
+          "18k_gold": 78416
+        },
+        "yesterday": {
           "24k_gold": 106608,
           "22k_gold": 97720,
           "18k_gold": 79952
         },
-        "yesterday": {
-          "24k_gold": 108832,
-          "22k_gold": 99760,
-          "18k_gold": 81624
-        },
         "change": {
-          "24k_gold": -2224,
-          "22k_gold": -2040,
-          "18k_gold": -1672
+          "24k_gold": -2056,
+          "22k_gold": -1880,
+          "18k_gold": -1536
         }
       },
       {
         "weight_gram": 10,
         "today": {
+          "24k_gold": 130690,
+          "22k_gold": 119800,
+          "18k_gold": 98020
+        },
+        "yesterday": {
           "24k_gold": 133260,
           "22k_gold": 122150,
           "18k_gold": 99940
         },
-        "yesterday": {
-          "24k_gold": 136040,
-          "22k_gold": 124700,
-          "18k_gold": 102030
-        },
         "change": {
-          "24k_gold": -2780,
-          "22k_gold": -2550,
-          "18k_gold": -2090
+          "24k_gold": -2570,
+          "22k_gold": -2350,
+          "18k_gold": -1920
         }
       },
       {
         "weight_gram": 100,
         "today": {
+          "24k_gold": 1306900,
+          "22k_gold": 1198000,
+          "18k_gold": 980200
+        },
+        "yesterday": {
           "24k_gold": 1332600,
           "22k_gold": 1221500,
           "18k_gold": 999400
         },
-        "yesterday": {
-          "24k_gold": 1360400,
-          "22k_gold": 1247000,
-          "18k_gold": 1020300
-        },
         "change": {
-          "24k_gold": -27800,
-          "22k_gold": -25500,
-          "18k_gold": -20900
+          "24k_gold": -25700,
+          "22k_gold": -23500,
+          "18k_gold": -19200
         }
       }
     ],
     "silver": [
       {
         "weight_gram": 1,
-        "today": 185,
-        "yesterday": 190,
+        "today": 180,
+        "yesterday": 185,
         "change": 5
       },
       {
         "weight_gram": 8,
-        "today": 1480,
-        "yesterday": 1520,
+        "today": 1440,
+        "yesterday": 1480,
         "change": 40
       },
       {
         "weight_gram": 10,
-        "today": 1850,
-        "yesterday": 1900,
+        "today": 1800,
+        "yesterday": 1850,
         "change": 50
       },
       {
         "weight_gram": 100,
-        "today": 18500,
-        "yesterday": 19000,
+        "today": 18000,
+        "yesterday": 18500,
         "change": 500
       },
       {
         "weight_gram": 1000,
-        "today": 185000,
-        "yesterday": 190000,
+        "today": 180000,
+        "yesterday": 185000,
         "change": 5000
       }
     ]
   },
   "last_10_days": {
     "gold": [
+      {
+        "date": "2026-11-19",
+        "date_label": "Nov 19, 2026",
+        "24k_gold": 13069,
+        "22k_gold": 11980,
+        "change_24k": -257,
+        "change_22k": -235
+      },
       {
         "date": "2026-11-18",
         "date_label": "Nov 18, 2026",
@@ -936,17 +950,18 @@
         "22k_gold": 13080,
         "change_24k": -191,
         "change_22k": -175
-      },
-      {
-        "date": "2026-11-09",
-        "date_label": "Nov 09, 2026",
-        "24k_gold": 14460,
-        "22k_gold": 13255,
-        "change_24k": 103,
-        "change_22k": 95
       }
     ],
     "silver": [
+      {
+        "date": "2026-11-19",
+        "date_label": "Nov 19, 2026",
+        "silver_1g": 180,
+        "silver_10g": 1800,
+        "silver_100g": 18000,
+        "silver_1kg": 180000,
+        "change_1kg": -5000
+      },
       {
         "date": "2026-11-18",
         "date_label": "Nov 18, 2026",
@@ -1022,15 +1037,6 @@
       {
         "date": "2026-11-10",
         "date_label": "Nov 10, 2026",
-        "silver_1g": 205,
-        "silver_10g": 2050,
-        "silver_100g": 20500,
-        "silver_1kg": 205000,
-        "change_1kg": 0
-      },
-      {
-        "date": "2026-11-09",
-        "date_label": "Nov 09, 2026",
         "silver_1g": 205,
         "silver_10g": 2050,
         "silver_100g": 20500,
