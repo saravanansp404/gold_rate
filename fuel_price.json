@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21",
+  "last_updated": "2026-11-22",
   "source": "Goodreturns",
   "unit": "INR per litre",
   "prices": {
@@ -55,14 +55,14 @@
       {
         "city": "Noida",
         "price": 101.96,
-        "yesterday": 102.12,
-        "change": -0.16
+        "yesterday": 101.96,
+        "change": 0.0
       },
       {
         "city": "Bangalore",
         "price": 111.68,
-        "yesterday": 110.44,
-        "change": 1.24
+        "yesterday": 111.68,
+        "change": 0.0
       },
       {
         "city": "Bhubaneswar",
@@ -79,14 +79,14 @@
       {
         "city": "Hyderabad",
         "price": 116.15,
-        "yesterday": 115.71,
-        "change": 0.44
+        "yesterday": 116.15,
+        "change": 0.0
       },
       {
         "city": "Jaipur",
         "price": 113.19,
-        "yesterday": 112.69,
-        "change": 0.5
+        "yesterday": 113.19,
+        "change": 0.0
       },
       {
         "city": "Lucknow",
@@ -96,9 +96,9 @@
       },
       {
         "city": "Patna",
-        "price": 113.35,
-        "yesterday": 113.37,
-        "change": -0.02
+        "price": 113.37,
+        "yesterday": 113.35,
+        "change": 0.02
       },
       {
         "city": "Thiruvananthapuram",
@@ -141,14 +141,14 @@
       {
         "city": "Noida",
         "price": 95.44,
-        "yesterday": 95.56,
-        "change": -0.12
+        "yesterday": 95.44,
+        "change": 0.0
       },
       {
         "city": "Bangalore",
         "price": 99.56,
-        "yesterday": 98.39,
-        "change": 1.17
+        "yesterday": 99.56,
+        "change": 0.0
       },
       {
         "city": "Bhubaneswar",
@@ -165,14 +165,14 @@
       {
         "city": "Hyderabad",
         "price": 104.23,
-        "yesterday": 103.84,
-        "change": 0.39
+        "yesterday": 104.23,
+        "change": 0.0
       },
       {
         "city": "Jaipur",
         "price": 98.25,
-        "yesterday": 97.78,
-        "change": 0.47
+        "yesterday": 98.25,
+        "change": 0.0
       },
       {
         "city": "Lucknow",
@@ -203,12 +203,6 @@
         "change": 0.0
       },
       {
-        "state": "Andhra Pradesh",
-        "price": 117.51,
-        "yesterday": 117.51,
-        "change": 0.0
-      },
-      {
         "state": "Arunachal Pradesh",
         "price": 97.96,
         "yesterday": 97.96,
@@ -222,9 +216,9 @@
       },
       {
         "state": "Bihar",
-        "price": 113.35,
+        "price": 113.37,
         "yesterday": 113.35,
-        "change": 0.0
+        "change": 0.02
       },
       {
         "state": "Chandigarh",
@@ -418,12 +412,6 @@
         "state": "Andaman & Nicobar",
         "price": 84.56,
         "yesterday": 84.56,
-        "change": 0.0
-      },
-      {
-        "state": "Andhra Pradesh",
-        "price": 105.2,
-        "yesterday": 105.2,
         "change": 0.0
       },
       {
@@ -2010,6 +1998,17 @@
     },
     {
       "date": "2026-11-21",
+      "petrol_delhi": 102.12,
+      "diesel_delhi": 95.2,
+      "petrol_mumbai": 111.21,
+      "diesel_mumbai": 97.83,
+      "petrol_chennai": 107.76,
+      "diesel_chennai": 99.55,
+      "petrol_bangalore": 111.68,
+      "diesel_bangalore": 99.56
+    },
+    {
+      "date": "2026-11-22",
       "petrol_delhi": 102.12,
       "diesel_delhi": 95.2,
       "petrol_mumbai": 111.21,
