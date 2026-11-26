@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-26",
   "source": "Goodreturns",
   "unit": "INR per litre",
   "prices": {
@@ -54,9 +54,9 @@
       },
       {
         "city": "Noida",
-        "price": 101.96,
+        "price": 102.12,
         "yesterday": 101.96,
-        "change": 0.0
+        "change": 0.16
       },
       {
         "city": "Bangalore",
@@ -140,9 +140,9 @@
       },
       {
         "city": "Noida",
-        "price": 95.44,
+        "price": 95.56,
         "yesterday": 95.44,
-        "change": 0.0
+        "change": 0.12
       },
       {
         "city": "Bangalore",
@@ -2042,6 +2042,17 @@
     },
     {
       "date": "2026-11-25",
+      "petrol_delhi": 102.12,
+      "diesel_delhi": 95.2,
+      "petrol_mumbai": 111.21,
+      "diesel_mumbai": 97.83,
+      "petrol_chennai": 107.76,
+      "diesel_chennai": 99.55,
+      "petrol_bangalore": 111.68,
+      "diesel_bangalore": 99.56
+    },
+    {
+      "date": "2026-11-26",
       "petrol_delhi": 102.12,
       "diesel_delhi": 95.2,
       "petrol_mumbai": 111.21,
