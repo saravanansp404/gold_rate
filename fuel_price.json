@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26",
+  "last_updated": "2026-11-27",
   "source": "Goodreturns",
   "unit": "INR per litre",
   "prices": {
@@ -48,15 +48,15 @@
       },
       {
         "city": "Gurgaon",
-        "price": 102.97,
+        "price": 102.77,
         "yesterday": 102.97,
-        "change": 0.0
+        "change": -0.2
       },
       {
         "city": "Noida",
-        "price": 102.12,
-        "yesterday": 101.96,
-        "change": 0.16
+        "price": 101.96,
+        "yesterday": 102.12,
+        "change": -0.16
       },
       {
         "city": "Bangalore",
@@ -134,15 +134,15 @@
       },
       {
         "city": "Gurgaon",
-        "price": 95.64,
+        "price": 95.44,
         "yesterday": 95.64,
-        "change": 0.0
+        "change": -0.2
       },
       {
         "city": "Noida",
-        "price": 95.56,
-        "yesterday": 95.44,
-        "change": 0.12
+        "price": 95.44,
+        "yesterday": 95.56,
+        "change": -0.12
       },
       {
         "city": "Bangalore",
@@ -188,9 +188,9 @@
       },
       {
         "city": "Thiruvananthapuram",
-        "price": 104.4,
+        "price": 104.41,
         "yesterday": 104.4,
-        "change": 0.0
+        "change": 0.01
       }
     ]
   },
@@ -204,9 +204,9 @@
       },
       {
         "state": "Arunachal Pradesh",
-        "price": 97.96,
+        "price": 97.7,
         "yesterday": 97.96,
-        "change": 0.0
+        "change": -0.26
       },
       {
         "state": "Assam",
@@ -228,15 +228,15 @@
       },
       {
         "state": "Chhatisgarh",
-        "price": 108.06,
+        "price": 109.73,
         "yesterday": 108.06,
-        "change": 0.0
+        "change": 1.67
       },
       {
         "state": "Dadra and Nagar Haveli and Daman and Diu",
-        "price": 99.44,
+        "price": 99.5,
         "yesterday": 99.44,
-        "change": 0.0
+        "change": 0.06
       },
       {
         "state": "Delhi",
@@ -264,9 +264,9 @@
       },
       {
         "state": "Himachal Pradesh",
-        "price": 103.15,
+        "price": 103.14,
         "yesterday": 103.15,
-        "change": 0.0
+        "change": -0.01
       },
       {
         "state": "Jammu & Kashmir",
@@ -306,9 +306,9 @@
       },
       {
         "state": "Madhya Pradesh",
-        "price": 114.36,
+        "price": 114.57,
         "yesterday": 114.36,
-        "change": 0.0
+        "change": 0.21
       },
       {
         "state": "Maharashtra",
@@ -416,9 +416,9 @@
       },
       {
         "state": "Arunachal Pradesh",
-        "price": 87.32,
+        "price": 87.11,
         "yesterday": 87.32,
-        "change": 0.0
+        "change": -0.21
       },
       {
         "state": "Assam",
@@ -440,15 +440,15 @@
       },
       {
         "state": "Chhatisgarh",
-        "price": 101.32,
+        "price": 103.0,
         "yesterday": 101.32,
-        "change": 0.0
+        "change": 1.68
       },
       {
         "state": "Dadra and Nagar Haveli and Daman and Diu",
-        "price": 95.33,
+        "price": 95.4,
         "yesterday": 95.33,
-        "change": 0.0
+        "change": 0.07
       },
       {
         "state": "Delhi",
@@ -476,9 +476,9 @@
       },
       {
         "state": "Himachal Pradesh",
-        "price": 95.28,
+        "price": 95.27,
         "yesterday": 95.28,
-        "change": 0.0
+        "change": -0.01
       },
       {
         "state": "Jammu & Kashmir",
@@ -500,9 +500,9 @@
       },
       {
         "state": "Kerala",
-        "price": 104.4,
+        "price": 104.41,
         "yesterday": 104.4,
-        "change": 0.0
+        "change": 0.01
       },
       {
         "state": "Ladakh",
@@ -518,9 +518,9 @@
       },
       {
         "state": "Madhya Pradesh",
-        "price": 99.48,
+        "price": 99.64,
         "yesterday": 99.48,
-        "change": 0.0
+        "change": 0.16
       },
       {
         "state": "Maharashtra",
@@ -2053,6 +2053,17 @@
     },
     {
       "date": "2026-11-26",
+      "petrol_delhi": 102.12,
+      "diesel_delhi": 95.2,
+      "petrol_mumbai": 111.21,
+      "diesel_mumbai": 97.83,
+      "petrol_chennai": 107.76,
+      "diesel_chennai": 99.55,
+      "petrol_bangalore": 111.68,
+      "diesel_bangalore": 99.56
+    },
+    {
+      "date": "2026-11-27",
       "petrol_delhi": 102.12,
       "diesel_delhi": 95.2,
       "petrol_mumbai": 111.21,
